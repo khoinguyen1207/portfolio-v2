@@ -57,7 +57,7 @@ export const DATA = {
       badges: [],
       location: "Onsite",
       title: "Frontend Developer Intern",
-      logoUrl: "/idtek-logo.png",
+      logoUrl: "/placeholder.svg",
       start: "August 2023",
       end: "December 2023",
       description:
@@ -69,7 +69,7 @@ export const DATA = {
       href: "https://appscyclone.com",
       location: "Onsite",
       title: "Frontend Developer",
-      logoUrl: "/apps-cyclone-logo.png",
+      logoUrl: "/placeholder.svg",
       start: "March 2024",
       end: "Now",
       description:
